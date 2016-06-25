@@ -16,7 +16,7 @@
   font-size: 0; /* fix inline block spacing */
 }
 .draggable.nav > li > a  {
-  font-size: 14px;  give font size to links 
+  /*font-size: 14px;  give font size to links */
 }
 
 /* visual styles */
@@ -30,7 +30,8 @@ h1 {
 }
 .draggable-container {
   padding: 10px 0px;
-  border: 1px solid #000000;
+  width: 400px
+  /*border: 1px solid #000000;*/
 }
 
 .draggable.nav > li{
