@@ -18,7 +18,9 @@
 .draggable.nav > li > a  {
   /*font-size: 14px;  give font size to links */
 }
-
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus{
+  border: none
+}
 /* visual styles */
 
 h1 {
