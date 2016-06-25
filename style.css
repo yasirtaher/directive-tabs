@@ -21,6 +21,10 @@
 .nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus{
   border: none
 }
+.nav-tabs>li >a:hover, .nav-tabs>li>a:focus{
+  background: #fff;
+  border-bottom: 1px solid #2196F3;
+}
 /* visual styles */
 
 h1 {
